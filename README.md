@@ -19,7 +19,7 @@ An enhanced dataset in video format is now available on Kaggle, comprising both 
 
 ## Execution Guide
 
-For a comprehensive guide on executing the implementation, kindly refer to the [official GitHub repository](https://github.com/b05902062/TDConvED).
+For a comprehensive guide on executing the implementation, kindly refer to the [Reference](https://github.com/b05902062/TDConvED).
 
 ## Bug Fixes & Troubleshooting
 
